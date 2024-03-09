@@ -1,11 +1,13 @@
 class Solution {
 public:
     int getCommon(vector<int>& nums1, vector<int>& nums2) {
-        unordered_set<int> st(nums2.begin(), nums2.end());
-        int ans = INT_MAX;
-        for(auto num: nums1) {
-            if(st.count(num) && num < ans) ans = num;
+        int m = nums1.size(), n = nums2.size();
+        int i = 0, j = 0;
+        while(i < m && j < n) {
+            if(nums1[i] == nums2[j]) return nums1[i];
+            else if(nums1[i] > nums2[j]) j++;
+            else i++;
         }
-     return ans == INT_MAX ? -1 : ans;
+     return -1;
     }
 };
