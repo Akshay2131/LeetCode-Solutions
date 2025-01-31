@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0854-making-a-large-island](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [1063-best-sightseeing-pair](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/1063-best-sightseeing-pair) |
 ## Dynamic Programming
 |  |
@@ -14,10 +15,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0854-making-a-large-island](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [1558-course-schedule-iv](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/1558-course-schedule-iv) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0854-making-a-large-island](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [1558-course-schedule-iv](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/1558-course-schedule-iv) |
 ## Graph
 |  |
@@ -27,4 +30,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1558-course-schedule-iv](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/1558-course-schedule-iv) |
+## Union Find
+|  |
+| ------- |
+| [0854-making-a-large-island](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
+## Matrix
+|  |
+| ------- |
+| [0854-making-a-large-island](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 <!---LeetCode Topics End-->
