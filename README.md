@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0854-making-a-large-island](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [1063-best-sightseeing-pair](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/1063-best-sightseeing-pair) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -38,4 +39,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0854-making-a-large-island](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
+## Math
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
+## Design
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
