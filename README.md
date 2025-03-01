@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0854-making-a-large-island](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [1063-best-sightseeing-pair](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
+| [2551-apply-operations-to-an-array](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -55,4 +56,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [2551-apply-operations-to-an-array](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
+## Simulation
+|  |
+| ------- |
+| [2551-apply-operations-to-an-array](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
