@@ -19,15 +19,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0854-making-a-large-island](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [1558-course-schedule-iv](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/1558-course-schedule-iv) |
+| [2793-count-the-number-of-complete-components](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0854-making-a-large-island](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [1558-course-schedule-iv](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/1558-course-schedule-iv) |
+| [2793-count-the-number-of-complete-components](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
 ## Graph
 |  |
 | ------- |
 | [1558-course-schedule-iv](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/1558-course-schedule-iv) |
+| [2793-count-the-number-of-complete-components](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
 ## Topological Sort
 |  |
 | ------- |
@@ -36,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0854-making-a-large-island](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
+| [2793-count-the-number-of-complete-components](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
 ## Matrix
 |  |
 | ------- |
