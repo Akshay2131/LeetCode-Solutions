@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1063-best-sightseeing-pair](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2551-apply-operations-to-an-array](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
+| [2681-put-marbles-in-bags](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/2681-put-marbles-in-bags) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -68,4 +69,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2551-apply-operations-to-an-array](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
+## Greedy
+|  |
+| ------- |
+| [2681-put-marbles-in-bags](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/2681-put-marbles-in-bags) |
+## Sorting
+|  |
+| ------- |
+| [2681-put-marbles-in-bags](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/2681-put-marbles-in-bags) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2681-put-marbles-in-bags](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/2681-put-marbles-in-bags) |
 <!---LeetCode Topics End-->
