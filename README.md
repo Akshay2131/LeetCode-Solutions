@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0854-making-a-large-island](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [1063-best-sightseeing-pair](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2551-apply-operations-to-an-array](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2681-put-marbles-in-bags](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/2681-put-marbles-in-bags) |
 ## Dynamic Programming
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Design
 |  |
 | ------- |
@@ -81,4 +83,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2681-put-marbles-in-bags](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/2681-put-marbles-in-bags) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
