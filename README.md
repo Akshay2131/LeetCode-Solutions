@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1063-best-sightseeing-pair](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/1063-best-sightseeing-pair) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2262-solving-questions-with-brainpower](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/2262-solving-questions-with-brainpower) |
 ## Depth-First Search
 |  |
@@ -35,11 +36,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1558-course-schedule-iv](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/1558-course-schedule-iv) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
 ## Topological Sort
 |  |
 | ------- |
 | [1558-course-schedule-iv](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/1558-course-schedule-iv) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Union Find
 |  |
 | ------- |
@@ -106,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## String
 |  |
@@ -114,5 +118,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+## Memoization
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
