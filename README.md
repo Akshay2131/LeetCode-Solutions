@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0868-push-dominoes](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/0868-push-dominoes) |
 | [1063-best-sightseeing-pair](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2262-solving-questions-with-brainpower](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/2262-solving-questions-with-brainpower) |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0868-push-dominoes](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/0868-push-dominoes) |
 | [2551-apply-operations-to-an-array](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 ## Simulation
 |  |
@@ -119,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0868-push-dominoes](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/0868-push-dominoes) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Counting
 |  |
