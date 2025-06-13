@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2262-solving-questions-with-brainpower](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2551-apply-operations-to-an-array](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2681-put-marbles-in-bags](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/2681-put-marbles-in-bags) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2681-put-marbles-in-bags](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/2681-put-marbles-in-bags) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -138,4 +140,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+## Binary Search
+|  |
+| ------- |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 <!---LeetCode Topics End-->
