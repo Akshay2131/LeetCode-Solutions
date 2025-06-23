@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 ## Design
 |  |
 | ------- |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 ## Hash Table
 |  |
 | ------- |
