@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0868-push-dominoes](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/0868-push-dominoes) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Counting
 |  |
