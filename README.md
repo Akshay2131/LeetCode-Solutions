@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0854-making-a-large-island](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [1063-best-sightseeing-pair](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/1063-best-sightseeing-pair) |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0868-push-dominoes](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/0868-push-dominoes) |
 | [1063-best-sightseeing-pair](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Akshay2131/LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
